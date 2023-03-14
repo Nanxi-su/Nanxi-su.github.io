@@ -4,7 +4,16 @@
   <url>
     <loc>https://www.nxi.asia/manifest.json</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nxi.asia/link/index.html</loc>
+    
+    <lastmod>2023-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://www.nxi.asia/posts/ec1f3c27.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
   <url>
     <loc>https://www.nxi.asia/posts/23f6fe56.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +40,7 @@
   <url>
     <loc>https://www.nxi.asia/posts/316bb4cd.html</loc>
     
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +49,7 @@
 
   <url>
     <loc>https://www.nxi.asia/</loc>
-    <lastmod>2023-03-13</lastmod>
+    <lastmod>2023-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
